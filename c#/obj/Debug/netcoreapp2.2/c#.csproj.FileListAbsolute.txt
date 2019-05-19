@@ -1,0 +1,11 @@
+/home/shahin/Desktop/c#/bin/Debug/netcoreapp2.2/c#.deps.json
+/home/shahin/Desktop/c#/bin/Debug/netcoreapp2.2/c#.runtimeconfig.json
+/home/shahin/Desktop/c#/bin/Debug/netcoreapp2.2/c#.runtimeconfig.dev.json
+/home/shahin/Desktop/c#/bin/Debug/netcoreapp2.2/c#.dll
+/home/shahin/Desktop/c#/bin/Debug/netcoreapp2.2/c#.pdb
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.csprojAssemblyReference.cache
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.csproj.CoreCompileInputs.cache
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.AssemblyInfoInputs.cache
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.AssemblyInfo.cs
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.dll
+/home/shahin/Desktop/c#/obj/Debug/netcoreapp2.2/c#.pdb
